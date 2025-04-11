@@ -1,20 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"MinMinMart Listing",
+    "id":"minminmean.listing",
+    "url":"https://minminmean.github.io/minminmart/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"duralumin0221@gmail.com",
+        "name":"MinMinMean",
+        "url":"https://github.com/minminmean"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Listing of minminmart assets.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/minminmean/minminmart",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "minminmean/Supine"
     ],
     "packages":[
         {
