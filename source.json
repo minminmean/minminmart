@@ -14,14 +14,21 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "minminmean/Supine"
+        // "minminmean/Supine"
     ],
     "packages":[
+        // {
+        //     "name":"minminmean.supine",
+        //     "displayName": "Gorone System (Supine)",
+        //     "releases":[
+        //         "https://github.com/minminmean/Supine/releases/download/4.1.1/minminmean.supine-4.1.1.zip"
+        //     ]
+        // },
         {
             "name":"minminmean.supine",
+            "displayName": "Gorone System EX (Supine EX)",
             "releases":[
-                "https://github.com/minminmean/Supine/releases/download/4.1.1-ex/minminmean.supine-4.1.1-ex.zip",
-                "https://github.com/minminmean/Supine/releases/download/4.1.1/minminmean.supine-4.1.1.zip"
+                "https://github.com/minminmean/Supine/releases/download/4.1.1-ex/minminmean.supine-4.1.1-ex.zip"
             ]
         }
     ]
