@@ -16,6 +16,7 @@ body {
   justify-content: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: var(--neutral-foreground-rest);
+  background-color: #cce6cd;
 }
 
 .hidden {
