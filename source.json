@@ -3,11 +3,11 @@
     "id":"minminmean.listing",
     "url":"https://minminmean.github.io/minminmart/index.json",
     "author":{
-        "email":"duraralmin0221@gmail.com",
+        "email":"duralumin0221@gmail.com",
         "name":"MinMinMean",
         "url":"https://github.com/minminmean"
     },
-    "description":"Listing of Gorone System (Supine)",
+    "description":"Listing of MinMinMean's VRChat packages",
     "infoLink":{
         "url":"http://github.com/minminmean/minminmart",
         "text":"View on GitHub"
@@ -15,7 +15,8 @@
     "bannerUrl":"gorone_banner.png",
     "githubRepos":[
         "minminmean/Supine",
-        "minminmean/Supine-EX"
+        "minminmean/Supine-EX",
+        "minminmean/AvatarVariantSelector"
     ],
     "packages":[
 
