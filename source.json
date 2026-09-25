@@ -16,7 +16,8 @@
     "githubRepos":[
         "minminmean/Supine",
         "minminmean/Supine-EX",
-        "minminmean/AvatarVariantSelector"
+        "minminmean/AvatarVariantSelector",
+        "minminmean/PlatformMeshCompressor"
     ],
     "packages":[
 
